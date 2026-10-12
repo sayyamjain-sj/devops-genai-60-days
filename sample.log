@@ -1,0 +1,6 @@
+INFO User login successful
+ERROR Database connection failed
+INFO API request completed
+WARNING Memory usage high
+ERROR Payment service timeout
+INFO User logout successful
