@@ -1,0 +1,14 @@
+{
+    "info": 4,
+    "warnings": 1,
+    "errors": 3,
+    "error_messages": [
+        "2026-10-14 10:01:10 ERROR Database connection failed",
+        "2026-10-14 10:02:45 ERROR Payment service timeout",
+        "2026-10-14 10:04:15 ERROR Database connection failed"
+    ],
+    "error_types": {
+        "Database connection failed": 2,
+        "Payment service timeout": 1
+    }
+}
